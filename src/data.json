@@ -1,0 +1,303 @@
+[
+    {
+     "id":1,
+     "name":"Sangam-Hut",
+     "types":"Continental, Pizza, indian, Desserts",
+     "cost":1200,
+     "time":" 25 min",
+     "payment":{
+         "card":"false",
+         "cash":"true",
+         "upi":"true"
+     },
+     "rating":"5.0",
+     "offer":"10% off Up to ₹50",
+     "image":"https://s7d1.scene7.com/is/image/mcdonalds/h-mcdonalds-Hamburger:1-4-product-tile-desktop"    
+    },
+    {
+     "id":2,
+     "name":"mini cake ",
+     "types":"Bakery, Fast-Food, Desserts",
+     "cost":400,
+     "time":" 31 min",
+     "payment":{
+         "card":"true",
+         "cash":"true",
+         "upi":"true"
+     },
+     "rating":"3.5",
+     "offer":"50% off Up to ₹120"  ,
+     "image":"https://mioamoreshop.com/pub/media/catalog/product/cache/de51acc2f374d9ab2566ae30f61b76ff/m/a/mango_samoa_7.png"     
+    },
+    {
+     "id":3,
+     "name":"Burger King",
+     "types":"Burger, Fast-Food, Biryani",
+     "cost":750,
+     "time":" 20 min",
+     "payment":{
+         "card":"true",
+         "cash":"true",
+         "upi":"true"
+     },
+     "rating":"4.4",
+     "image":"https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-Double-Cheeseburger-1:1-4-product-tile-desktop"
+    },
+    {
+     "id":4,
+     "name":"breakfast",
+     "types":"Seafood, North Indian, Biryani",
+     "cost":350,
+     "time":" 40 min",
+     "payment":{
+         "card":"false",
+         "cash":"false",
+         "upi":"true"
+     },
+     "rating":"4.2",
+     "offer":"20% off Up to ₹50",
+     "image":"https://s7d1.scene7.com/is/image/mcdonalds/s-mcdonalds-Big-Breakfast-Regular-Size-Biscuit-1:1-4-product-tile-desktop"       
+    },
+    {
+     "id":5,
+     "name":"Burger Lounge",
+     "types":"Burger, Fast Food, Beverages",
+     "cost":150,
+     "time":" 28 min",
+     "payment":{
+         "card":"false",
+         "cash":"false",
+         "upi":"true"
+     },
+     "rating":"3.8",
+     "offer":"30% off Up to ₹75"  ,
+     "image":"https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-Big-Mac-1:1-4-product-tile-desktop"       
+    },
+    {
+     "id":6,
+     "name":"Pizza Hut",
+     "types":"Pizza, Fast-Food, Desserts",
+     "cost":250,
+     "time":" 34 min",
+     "payment":{
+         "card":"false",
+         "cash":"true",
+         "upi":"false"
+     },
+     "rating":"4.1",
+     "offer":"60% off Up to ₹120"   ,
+     "image":"https://res.cloudinary.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/at1yjxed3amighwte3xc"      
+    },
+    {
+     "id":7,
+     "name":"Sunny Cafe",
+     "types":"South, Ice Cream, North Indian",
+     "cost":120,
+     "time":" 30 min",
+     "payment":{
+         "card":"true",
+         "cash":"false",
+         "upi":"true"
+     },
+     "rating":"4.3",
+     "offer":"10% off Up to ₹40"    ,
+     "image":"https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-Vanilla-Reduced-Fat-Ice-Cream-Cone:1-4-product-tile-desktop"     
+    },
+    {
+     "id":8,
+     "name":"MC Cafe",
+     "types":"Bihar",
+     "cost":150,
+     "time":" 5 min",
+     "payment":{
+         "card":"false",
+         "cash":"true",
+         "upi":"false"
+     },
+     "rating":"3.7",
+     "offer":"15% off Up to ₹30"  ,
+     "image":"https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-caramel-macchiato:1-4-product-tile-desktop"       
+    },
+    {
+     "id":9,
+     "name":"Modi Street Food Cafe",
+     "types":"Beverages, Burger, Ice Cream",
+     "cost":100,
+     "time":" 32 min",
+     "payment":{
+         "card":"false",
+         "cash":"true",
+         "upi":"false"
+     },
+     "rating":"4.2",
+     "offer":"40% off Up to ₹80"   ,
+     "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/atkvw8h9y9azxch3b3os"      
+    },
+    {
+     "id":10,
+     "name":"Rollster Role",
+     "types":"Rolls, Fast Food, Beverages",
+     "cost":150,
+     "time":" 20 min",
+     "payment":{
+         "card":"true",
+         "cash":"false",
+         "upi":"true"
+     },
+     "rating":"4.4",
+     "offer":"40% off Up to ₹70"  ,
+     "image":"https://im1.dineout.co.in/images/uploads/restaurant/sharpen/2/t/f/p2666-164380572861fa7c20467c1.jpg?tr=tr:n-xlarge"  
+    },
+    {
+     "id":11,
+     "name":"Domino's Pizza",
+     "types":"Pizza, Fast Food, Desserts",
+     "cost":250,
+     "time":" 20 min",
+     "payment":{
+         "card":"true",
+         "cash":"false",
+         "upi":"true"
+     },
+     "rating":"4.2",
+     "offer":"30% off Up to ₹80"  ,
+     "image":"https://b.zmtcdn.com/data/pictures/chains/0/18739270/a3f876979c7b1a123ff8d0548d774cb1.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*"  
+    },
+    {
+        "id":12,
+        "name":"McDonald's",
+        "types":"Coffee, Beverages, Burger",
+        "cost":50,
+        "time":" 30 min",
+        "payment":{
+            "card":"true",
+            "cash":"false",
+            "upi":"false"
+        },
+        "rating":"4.2",
+        "offer":"22% off Up to ₹160"   ,
+        "image":"https://s7d1.scene7.com/is/image/mcdonalds/h-mcdonalds-Big-Mac-Extra-Value-Meals:1-3-product-tile-desktop?wid=830&hei=516&dpr=off"      
+       },
+       {
+        "id":13,
+        "name":"Sonu Pizza",
+        "types":"Pizza, Fast Food, Beverages",
+        "cost":180,
+        "time":" 29 min",
+        "payment":{
+            "card":"false",
+            "cash":"true",
+            "upi":"false"
+        },
+        "rating":"4.0",
+        "offer":"42% off Up to ₹90"    ,
+        "image":"https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/margherita.7d3b623ceb66e87fc7247fa81c6cfdc1.1.jpg?width=251"     
+       },
+       {
+        "id":14,
+        "name":"Badsah food",
+        "types":"Fast Food, Burger, Momos",
+        "cost":150,
+        "time":" 27 min",
+        "payment":{
+            "card":"false",
+            "cash":"false",
+            "upi":"true"
+        },
+        "rating":"3.5",
+        "offer":"50% off Up to ₹70"   ,
+        "image":"https://b.zmtcdn.com/data/pictures/1/18785111/4a4e17e35caecfe0754c32be3dc89872.jpg"      
+       },
+       {
+        "id":15,
+        "name":"some deo",
+        "types":"North Indian, South Indian",
+        "cost":200,
+        "time":" 35 min",
+        "payment":{
+            "card":"false",
+            "cash":"true",
+            "upi":"true"
+        },
+        "rating":"4.2",
+        "offer":"22% off Up to ₹55"  ,
+        "image":"https://www.thespruceeats.com/thmb/l6sPrsoFh8aV-sPNKM0zQuyPju0=/735x0/naan-leavened-indian-flatbread-1957348-final-08-116a2e523f6e4ee693b1a9655784d9b9.jpg"       
+       },
+       {
+        "id":16,
+        "name":"Unknown Pizza",
+        "types":"Pizza, Fast Food, Sandwich",
+        "cost":150,
+        "time":" 30 min",
+        "payment":{
+            "card":"true",
+            "cash":"true",
+            "upi":"false"
+        },
+        "rating":"4.3",
+        "offer":"31% off Up to ₹79"  ,
+        "image":"https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/veggie-supreme.403f5e6cf9abb29247a97732c8aae860.1.jpg?width=251"       
+       },
+       {
+        "id":17,
+        "name":"Soumya's Sweets",
+        "types":"Mithai, Desserts",
+        "cost":100,
+        "time":" 15 min",
+        "payment":{
+            "card":"true",
+            "cash":"false",
+            "upi":"true"
+        },
+        "rating":"4.4",
+        "offer":"15% off Up to ₹90"  ,
+        "image":"https://www.mistay.in/travel-blog/content/images/2020/07/sweets.jpg"       
+       },
+       {
+        "id":18,
+        "name":"DAiry milk",
+        "types":"Fast Food, Chinese,",
+        "cost":150,
+        "time":" 32 min",
+        "payment":{
+            "card":"false",
+            "cash":"false",
+            "upi":"true"
+        },
+        "rating":"3.4",
+        "offer":"20% off Up to ₹50" ,
+        "image":"https://imgcdn.shortlyst.com/?u=https%3A%2F%2Fimg.shortlyst.com%2Fmerch%2F1_1645430096905_1645430124919.jpeg&mh=400"        
+       },
+       {
+        "id":19,
+        "name":"babu Hub",
+        "types":"Beverages, Fast Food, Shake",
+        "cost":80,
+        "time":" 36 min",
+        "payment":{
+            "card":"false",
+            "cash":"true",
+            "upi":"false"
+        },
+        "rating":"4.2",
+        "offer":"30% off Up to ₹150"  ,
+        "image":"https://media.istockphoto.com/photos/milk-shakes-in-plastic-cups-and-straws-on-a-dark-wooden-table-picture-id1311373994?b=1&k=20&m=1311373994&s=170667a&w=0&h=jBCnbjNhWueI5JJNV1Qagba2ek8PtGM9iZjmcPaSJPI="       
+       },
+       {
+        "id":20,
+        "name":"Fassos sasos",
+        "types":"Fast Food, Rolls, Wraps",
+        "cost":90,
+        "time":" 30 min",
+        "payment":{
+            "card":"false",
+            "cash":"true",
+            "upi":"true"
+        },
+        "rating":"4.0",
+        "offer":"50% off Up to ₹200"    ,
+        "image":"https://entrackr.com/wp-content/uploads/2017/12/faasos-image-1.jpg"     
+       }
+]
+
+
